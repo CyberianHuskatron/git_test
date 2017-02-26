@@ -1,1 +1,1 @@
-This is CyberianHuskatrons fist git project!
+This is CyberianHuskatrons first git project!
